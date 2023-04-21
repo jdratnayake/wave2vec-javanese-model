@@ -64,4 +64,4 @@ examples = [
     "WIKITONGUES - Ayu speaking Javanese.wav",   
 ]
 
-print(parse_transcription(examples[1]))
+print(parse_transcription(examples[2]))
